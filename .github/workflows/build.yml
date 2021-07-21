@@ -9,4 +9,4 @@ jobs:
   build:
     runs-on: [self-hosted, Linux, dev-runner]
     steps:
-      - uses: tomsun28/issues-translate-action@v2.
+      - uses: tomsun28/issues-translate-action@v2.3
